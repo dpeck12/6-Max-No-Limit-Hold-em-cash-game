@@ -1,0 +1,24 @@
+# Node / Vite
+node_modules/
+dist/
+.temp/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# Editor
+.vscode/
+.idea/
+
+# Env
+.env*
+
+# Coverage
+coverage/
+
+# OS
+.DS_Store
+Thumbs.db
